@@ -4,7 +4,7 @@ export default function Page() {
     return (
         <div className="flex min-h-screen items-center justify-center font-sans">
             <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16  sm:items-start">
-                <article>
+                <article className='mb-5'>
                     <h1 className='text-2xl font-medium'>A New Beginning</h1>
                     <p className='text-sm mt-2 text-gray-500 '>Sunday, 26th October 2025</p>
                     <div className='mt-8 text-base text-gray-500 flex flex-col gap-4'>
@@ -20,7 +20,7 @@ export default function Page() {
                         <p>This is just a short introductory ramble. I'll write again soon when I have something to say.</p>
                     </div>
                 </article>
-                <Link href='/' className='underline text-green-800 hover:text-green-500'>Back to homepage</Link>
+                <Link href='/'>Back to homepage</Link>
             </main>
         </div>
     );
