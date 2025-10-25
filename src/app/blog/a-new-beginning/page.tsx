@@ -15,7 +15,6 @@ export default function Page() {
                         <p>This time will be different.  I'm not writing to teach someone how to do something, this is just my thoughts, a developers journal if you will.  It may not be pretty, it may not read well and sometimes I might just be complaining, but this is it.</p>
                         <p>I saw last week that NextJS 16 is now stable, so that's what I'm using for the blog to test run it.  Not much of a test run though as I'm just writing articles!</p>
                         <p>In my day job all projects involve using a CMS so the client can make the updates themselves.  These might be Drupal, WordPress, SiteCore, Contentful, Prismic or Sanity.  But I don't need a CMS, I'm keeping this simple.  Writing directly into the HTML.</p>
-                        bal
                         <p>Old school.  Ok, maybe not old school, this is NextJS after all, but I think you get the idea.</p>
                         <p>This is just a short introductory ramble. I'll write again soon when I have something to say.</p>
                     </div>
