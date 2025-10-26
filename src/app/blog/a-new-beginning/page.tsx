@@ -1,4 +1,10 @@
 import Link from "next/link";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+    title: "A new beginning | Thoughts of a web developer",
+    description: "An introductory post explaining what this is blog is about. It gives you some insight into what I'm thinking, so you know whether this is something you want to follow along with going forward.",
+};
 
 export default function Page() {
     return (
