@@ -11,7 +11,7 @@ export default function Page() {
         <div className="flex min-h-screen items-center justify-center font-sans">
             <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16  sm:items-start">
                 <article className='mb-5'>
-                    <h1 className='text-2xl font-medium'>A New Beginning</h1>
+                    <h1 className='text-2xl font-medium'>A new beginning</h1>
                     <p className='text-sm mt-2 text-gray-500 '>Sunday, 26th October 2025</p>
                     <div className='mt-8 text-base text-gray-500 flex flex-col gap-4'>
                         <p>It's Sunday morning and my wife has gone to meet an old friend for Coffee.  The kids have their breakfast and I'm a little tired after getting up early to see the football team I follow lose.</p>
