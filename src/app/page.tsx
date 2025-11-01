@@ -8,6 +8,9 @@ export default function Home() {
                 <p className='mt-10 text-gray-500'>Welcome to a collection of thoughts from a web developer.  There is no promise anything will be useful for you.  It's just a place for me to start documenting whats happening.</p>
                 <ul className='mt-10 list-disc list-inside'>
                     <li>
+                        <Link href='/blog/goodbye-plesk'>Goodbye plesk</Link>
+                    </li>
+                    <li>
                         <Link href='/blog/learning-some-python'>Learning some python</Link>
                     </li>
                     <li>
